@@ -1,4 +1,4 @@
-# Friday Night Funkin
+# Friday Night Funkin' Moddinbg Plus
 [![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2FTheDrawingCoder-Gamer%2FFunkin%2Fbadge%3Fref%3Dmaster&style=for-the-badge)](https://actions-badge.atrox.dev/TheDrawingCoder-Gamer/Funkin/goto?ref=master)
 ![Azure DevOps builds](https://img.shields.io/azure-devops/build/benharless820/7af207e5-72fd-483f-9a48-6fc65e63abb9/4?label=pipelines&style=for-the-badge)
 [![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
