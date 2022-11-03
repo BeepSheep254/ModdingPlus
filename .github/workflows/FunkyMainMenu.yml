@@ -95,7 +95,7 @@ jobs:
         run: |
           haxelib setup C:/haxelib
           haxelib install hxcpp > nul
-          haxelib install lime
+          haxelib install lime 7.9.0
           haxelib install openfl
           haxelib --never install flixel
           haxelib run lime setup flixel
@@ -129,7 +129,7 @@ jobs:
           name: windowsWeek7Build
           path: export/release/windows/bin
       - name: Compile 32 bit
-        run: haxelib run lime build windows -D32bit -32
+        run: haxelib run lime build windows -D 32bit -32
       - name: Publish 32bit
         uses: actions/upload-artifact@v2
         with:
